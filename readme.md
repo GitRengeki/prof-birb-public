@@ -6,8 +6,11 @@ Professor Birb is a discord bot that answers math questions.
 `Use ' as command prefix`
 
 `help` - help
+
 `calc` - calculate the equation given
+
 `sqrt` - square root
+
 `sq` - square
 
 ---
