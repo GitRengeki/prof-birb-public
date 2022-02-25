@@ -13,6 +13,6 @@ Professor Birb is a discord bot that answers math questions.
 
 `sq` - square
 
----
-Program can be improve. however, I am working on another project so.. feel free to do. Still crude code.
----
+
+### Program can be improve. however, I am working on another project so.. feel free to do. Still crude code.
+
